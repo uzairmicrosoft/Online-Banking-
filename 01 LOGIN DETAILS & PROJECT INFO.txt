@@ -1,0 +1,18 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: bnkms**
+
+**Developed by Uzair Aslam Naqvi**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Staff Login Details**
+
+ID:	  210001
+Password: password
+
+
+Customer Id : 1011714
+Password      uzair@1234
+account number 1011741011714
